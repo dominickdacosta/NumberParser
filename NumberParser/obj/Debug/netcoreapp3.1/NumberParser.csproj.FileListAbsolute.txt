@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\NumberParser\NumberParser\bin\Debug\netcoreapp3.1\NumberParser.exe
+C:\Users\HP\source\repos\NumberParser\NumberParser\bin\Debug\netcoreapp3.1\NumberParser.deps.json
+C:\Users\HP\source\repos\NumberParser\NumberParser\bin\Debug\netcoreapp3.1\NumberParser.runtimeconfig.json
+C:\Users\HP\source\repos\NumberParser\NumberParser\bin\Debug\netcoreapp3.1\NumberParser.runtimeconfig.dev.json
+C:\Users\HP\source\repos\NumberParser\NumberParser\bin\Debug\netcoreapp3.1\NumberParser.dll
+C:\Users\HP\source\repos\NumberParser\NumberParser\bin\Debug\netcoreapp3.1\NumberParser.pdb
+C:\Users\HP\source\repos\NumberParser\NumberParser\obj\Debug\netcoreapp3.1\NumberParser.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NumberParser\NumberParser\obj\Debug\netcoreapp3.1\NumberParser.AssemblyInfo.cs
+C:\Users\HP\source\repos\NumberParser\NumberParser\obj\Debug\netcoreapp3.1\NumberParser.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NumberParser\NumberParser\obj\Debug\netcoreapp3.1\NumberParser.dll
+C:\Users\HP\source\repos\NumberParser\NumberParser\obj\Debug\netcoreapp3.1\NumberParser.pdb
+C:\Users\HP\source\repos\NumberParser\NumberParser\obj\Debug\netcoreapp3.1\NumberParser.genruntimeconfig.cache
